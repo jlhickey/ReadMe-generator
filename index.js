@@ -75,8 +75,8 @@ async function init() {
         // Ask user questions and generate responses
         const answers = await promptUser();
         const generateContent = generateReadme(answers);
-        // Write new README.md to dist directory
-        await writeFileAsync('./dist/README.md', generateContent);
+        // Write new README.md to util directory
+        await writeFileAsync('./util/README.md', generateContent);
         console.log('Success!');
     } catch (err) {
         console.log(err);
