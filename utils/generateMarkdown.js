@@ -1,7 +1,7 @@
 // generateReadme function populating the README.md
 function generateReadme(answers) {
     return `
-<h1 align="center">${answers.projectTitle} 👋</h1>
+<h1 align="center">${answers.projectTitle}</h1>
   
 ![badge](https://img.shields.io/badge/license-${answers.license})<br />
 ## Description
@@ -19,7 +19,7 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 ## License
-![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
+![badge](https://img.shields.io/badge/license-${answers.license})
 <br />
 This application is covered by the ${answers.license} license. 
 ## Contributing
