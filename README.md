@@ -30,7 +30,7 @@ Features
 
 'Usage'
 
-! [screen shot] (/readme.png)
+! [screen shot] (https://github.com/jlhickey/ReadMe-generator/main/readme.png)
 
 'Credits'
  I am learning every week to do more and more.
@@ -39,5 +39,5 @@ Features
 
 There is a demo video of how well my ReadMe assignment went
 To watch it, go to:  
-![alt text](https://github.com/jlhickey/ReadMe-generator/main/it_worked.mov)
+!(https://github.com/jlhickey/ReadMe-generator/main/it_worked.mov)
 My Github user name is: jlhickey.
