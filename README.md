@@ -39,3 +39,6 @@ Features
 
 There is a demo video of how well my ReadMe assignment went
 To watch it, go to (https://github.com/jlhickey/ReadMe-generator/it_worked.mov)
+
+If you have any other questions, please reach out
+My Github user name is: jlhickey.
