@@ -30,7 +30,7 @@ Features
 
 'Usage'
 
-(https://github.com/jlhickey/ReadMe-generator/readme.png)
+(/readme.png)
 
 'Credits'
  I am learning every week to do more and more.
