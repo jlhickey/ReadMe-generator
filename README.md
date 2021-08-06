@@ -39,7 +39,7 @@ Features
 
 There is a demo video of how well my ReadMe assignment went
 To watch it, go to:  
-!(https://github.com/jlhickey/ReadMe-generator/main/utils/readmerecording.mov)
+! (https://github.com/jlhickey/ReadMe-generator/blob/main/utils/Readmerecording.mov)
 
 
 My Github user name is: jlhickey.
