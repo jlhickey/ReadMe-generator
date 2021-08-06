@@ -30,7 +30,7 @@ Features
 
 'Usage'
 
-! [screen shot] (https://Users/joannehickey/Desktop/school/ReadMe-generator/readme..png)
+! [screen shot] (https://github.com/jlhickey/ReadMe-generator/main/readme.png)
 
 
 'Credits'
