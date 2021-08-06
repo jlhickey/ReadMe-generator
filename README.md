@@ -31,6 +31,8 @@ Features
 'Usage'
 
 ! [screen shot] (https://Users/joannehickey/Desktop/school/ReadMe-generator/readme..png)
+
+
 'Credits'
  I am learning every week to do more and more.
 
