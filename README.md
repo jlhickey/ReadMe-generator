@@ -23,7 +23,7 @@ To watch it, go to:
 
 
 ## REPOSITORIES
-- [Project Repo](https://github.com/jlhickey/Note-taker)
+- [My Read-Me Project](https://github.com/jlhickey/ReadMe-generator)
 - [GitHub](https://github.com/jlhickey)
 
  
